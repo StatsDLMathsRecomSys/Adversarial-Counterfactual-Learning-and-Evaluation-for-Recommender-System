@@ -1,5 +1,7 @@
-# Adversarial Counterfactual Learning and Evaluationfor Recommender System
-
+# Adversarial Counterfactual Learning and Evaluationfor Recommender System (NeurIPS 2020)
+<!--#### -->
+#### Authors: Da Xu*, Chuanwei Ruan*, Sushant Kumar, Evren Korpeoglu,  Kannan Achan
+#### Please contact Da.Xu@walmartlabs.com or Chuanwei.Ruan@walmartlabs.com for questions.
 
 ## install
 
