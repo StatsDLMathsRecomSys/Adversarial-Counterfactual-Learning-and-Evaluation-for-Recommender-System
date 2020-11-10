@@ -27,6 +27,15 @@ Inside each folder in `data`, there is a Pyhton script containing the preprocess
 
 * LastFM: http://files.grouplens.org/datasets/hetrec2011/hetrec2011-lastfm-2k.zip
 
+## Citation
+@article{xu2020adversarial,
+  title={Adversarial Counterfactual Learning and Evaluation for Recommender System},
+  author={Xu, Da and Ruan, Chuanwei and Korpeoglu, Evren and Kumar, Sushant and Achan, Kannan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
+
 * Goodread: https://drive.google.com/uc?id=1roQnVtWxVE1tbiXyabrotdZyUY7FA82W'
 
 
