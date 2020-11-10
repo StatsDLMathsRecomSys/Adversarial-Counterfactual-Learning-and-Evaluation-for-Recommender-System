@@ -27,15 +27,6 @@ Inside each folder in `data`, there is a Pyhton script containing the preprocess
 
 * LastFM: http://files.grouplens.org/datasets/hetrec2011/hetrec2011-lastfm-2k.zip
 
-## Citation
-@article{xu2020adversarial,
-  title={Adversarial Counterfactual Learning and Evaluation for Recommender System},
-  author={Xu, Da and Ruan, Chuanwei and Korpeoglu, Evren and Kumar, Sushant and Achan, Kannan},
-  journal={Advances in Neural Information Processing Systems},
-  volume={33},
-  year={2020}
-}
-
 * Goodread: https://drive.google.com/uc?id=1roQnVtWxVE1tbiXyabrotdZyUY7FA82W'
 
 
@@ -74,3 +65,12 @@ python train_on_simulation.py \
 We use a different random split and negative sampling hence the metrics reported in the paper differ from what reported in [Neural Collaborative Filtering.](http://dl.acm.org/citation.cfm?id=3052569) Our implementation is able to achieve similar performance using the data and evaluation methods provided in https://github.com/hexiangnan/neural_collaborative_filtering. 
 
 To validate the performance, please extract `data/ncf_data.tar.gz` and then run `NCF_validation.py`.
+
+## Citation
+@article{xu2020adversarial,
+  title={Adversarial Counterfactual Learning and Evaluation for Recommender System},
+  author={Xu, Da and Ruan, Chuanwei and Korpeoglu, Evren and Kumar, Sushant and Achan, Kannan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
