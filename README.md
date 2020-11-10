@@ -68,9 +68,15 @@ To validate the performance, please extract `data/ncf_data.tar.gz` and then run 
 
 ## Citation
 @article{xu2020adversarial,
+
   title={Adversarial Counterfactual Learning and Evaluation for Recommender System},
+  
   author={Xu, Da and Ruan, Chuanwei and Korpeoglu, Evren and Kumar, Sushant and Achan, Kannan},
+  
   journal={Advances in Neural Information Processing Systems},
+  
   volume={33},
+  
   year={2020}
+  
 }
